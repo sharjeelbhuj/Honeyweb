@@ -1,0 +1,64 @@
+
+
+
+
+
+
+
+
+@media screen   and(max-width: 320px) {
+
+
+  .navbar-collapse ul{
+    margin-left: -50px !important;
+
+   
+
+     
+
+}
+
+
+
+
+
+
+
+
+ 
+
+
+
+  }
+
+
+
+
+  @media screen and (max-width: 375px) {
+
+
+  
+
+
+
+  }
+
+
+
+
+  @media screen and (max-width: 425px) {
+
+
+ 
+
+
+
+
+  }
+
+
+
+  .navbar-collapse ul{
+      margin-left: 400px;
+  }
+
